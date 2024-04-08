@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: #F6F7F8;
+}
+
+h1{
+    color: white;
+}
+
+.endereco{
+    color: white;
+}
+
